@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tlucreticarider00giusgoog_0004.png"; bbox 0 0 3148 4696; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1504 3410 1528 4303">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1504 3410 1528 4303">
+     <span class='ocr_line' id='line_1_1' title="bbox 1504 3410 1528 4303; baseline -297.667 2976.667"><span class='ocrx_word' id='word_1_1' title='bbox 1504 3410 1528 4127; x_wconf 47' lang='lat' dir='ltr'><strong>,.1..=›1›r·..2›vwvvox⁸1⁴1.55.141»411»?›n125,..{.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1512 4146 1519 4181; x_wconf 61' lang='lat' dir='ltr'><strong>{a</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1512 4200 1519 4243; x_wconf 57' lang='grc' dir='ltr'><strong>ζ)</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1509 4254 1516 4303; x_wconf 65' lang='lat'><strong>›51</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1578 4696">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1578 4696">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1578 4696"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1578 4696; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
